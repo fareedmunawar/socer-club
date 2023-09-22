@@ -1,4 +1,0 @@
-<?php 
-// After verifying credentials
-
-?>
