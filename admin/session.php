@@ -1,0 +1,4 @@
+<?php 
+// After verifying credentials
+
+?>
